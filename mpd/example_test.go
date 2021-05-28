@@ -9,7 +9,7 @@ import (
 	"log"
 	"time"
 
-	"github.com/fhs/gompd/v2/mpd"
+	"github.com/sydstarwave/gompd/v2/mpd"
 )
 
 func ExampleDial() {

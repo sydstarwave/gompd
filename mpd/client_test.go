@@ -9,7 +9,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/fhs/gompd/v2/mpd/internal/server"
+	"github.com/sydstarwave/gompd/v2/mpd/internal/server"
 )
 
 var (
